@@ -1,6 +1,6 @@
 # ticket-tasks-randomizer
 
-Script to make tasks in ticket random
+Script to make tasks in tickets random
 
 ## Getting started
 
